@@ -1,0 +1,15 @@
+h1{
+    color: greenyellow;
+    text-shadow: 
+    -1px -1px 0 black,  
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+img{
+    position: relative;
+    border: 5px solid black;
+    border-radius: 10px;
+    left: 160px;
+    right: 50px;
+}
