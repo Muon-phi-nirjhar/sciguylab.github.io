@@ -13,3 +13,20 @@ img{
     left: 160px;
     right: 50px;
 }
+a{
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    top: 40px;
+    color: greenyellow;
+    text-shadow: 
+    -1px -1px 0 black,  
+    1px -1px 0 black,
+   -1px  1px 0 black,
+    1px  1px 0 black;
+}
+footer{
+    position: relative;
+    top: 220px;
+    text-align: center;
+}
